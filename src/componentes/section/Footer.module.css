@@ -13,6 +13,10 @@
 }
 
 .footer a{
-    color: aliceblue !important;
+    color: aliceblue ;
+    transition: 0.3s;
 }
-
+.footer a:hover{
+    color: rgba(116, 250, 192, 1);
+    transition: 0.3s;
+}
