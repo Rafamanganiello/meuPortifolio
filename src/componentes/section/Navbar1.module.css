@@ -13,8 +13,15 @@
 
 .navbar li{
     margin: 10px;
+    font-family: poppins;
+}
+.navbar a:hover{
+    color: rgba(116, 250, 192, 1);
+    transition: 0.3s;
 }
 
 .navbar a{
-    color: aliceblue !important;
+    color: aliceblue;
+    text-decoration: none;
+    transition: 0.3s;
 }
